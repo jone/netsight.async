@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.1.2 - (unreleased)
+--------------------
+
+ - Fix broken translation files.
+
 1.1.1 - (2011-10-27)
 --------------------
 
